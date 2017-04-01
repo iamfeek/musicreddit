@@ -13,7 +13,5 @@ This repo was for the crash course I conducted on 1st April 2017, Introduction t
 6. run `npm install && meteor`
 7. Open browser, `http://localhost:3000
 
-
-
-`
-### Do
+## Contribution
+Feel free to create a pull request on this project.
