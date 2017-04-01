@@ -9,6 +9,9 @@ Meteor.methods({
     check(url, String);
     check(title, String);
 
+    console.log(title);
+    console.log(url);
+
     return Links.insert({
       url,
       title,
