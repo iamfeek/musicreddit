@@ -1,7 +1,5 @@
 // imports/ui/layouts/Layout.jsx
 import React from 'react';
-import {DocHead} from 'meteor/kadira:dochead'
-
 import Navbar from './navs/Navbar.jsx';
 
 export default class Layout extends React.Component{
